@@ -1,0 +1,3 @@
+- 👋 Hi, I’m AnkieTankie.
+- 💧 I’m currently learning Java (node.js) and Python.
+- 📫 You can reach me at originalankie@gmail.com.
